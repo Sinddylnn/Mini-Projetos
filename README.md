@@ -10,4 +10,4 @@ Conforme desenvolvi os projetos, as tecnologias que utilizei foram:
 <li><a href="https://www.javascript.com">JavaScript</a>: Linguagem de programação que permite a implementar itens complexos em páginas web;</li>
 </ul>
 
-##
+#
